@@ -1,10 +1,10 @@
-# PWA webapp mobile-project Home Alone
+# PWA webApp mobile-project Home Alone
 
 > A Vue.js project
 
 ## Build Setup
 
-``` bash
+``` bashCancel changes
 # install dependencies
 npm install
 
