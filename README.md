@@ -1,10 +1,9 @@
-# PWA webApp mobile-project Home Alone
+# 2021 PWA 웹앱 모바일 프로젝트 : 나홀로집에 (HomeAlone)
 
 > A Vue.js project
 
 ## Build Setup
 
-``` bashCancel changes
 # install dependencies
 npm install
 
